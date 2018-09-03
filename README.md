@@ -1,2 +1,2 @@
 Brandi HTML5 Bootstraped Business Template
-<a>http://www.themefisher.com>Themefisher</a>
+<a href="http://www.themefisher.com">Themefisher</a>
